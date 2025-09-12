@@ -1,16 +1,8 @@
-# strings are immutable
-a = "!!!Anum!!!! !!!!"
-print(len(a))
-print(a)
-print(a.upper())
-print(a.lower())
-print(a.strip())
-print(a.replace("Anum","Khan"))
-print(a.split())
-b = "This is my second excercise"
-print(b.capitalize())
+a = int(input("Enter your age"))
+print("your age is", a)
 
-str1 = "What's up Anum!"
-print(len(str1))
-print(len(str1.center(50)))
-print(a.count("Anum"))
+if(a>18):
+ print("you can drive")
+
+else:(a<18)
+print("you cannot drive")
