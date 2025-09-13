@@ -1,4 +1,4 @@
-# Write the program that checks the number is positive, zero, or negative
+# Write the program that checks the number is positive, or negative
 a = int(input("Enter your Age:"))
 if(18<0):
     print(a ,"is positive")
