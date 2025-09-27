@@ -1,0 +1,3 @@
+import Anum
+
+Anum.welcome()
