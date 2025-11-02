@@ -12,4 +12,4 @@ else:
             print(f"marks of student {i} in English is: {m2}")
             print(f"marks of student {i} in Science is: {m3}")
         else:
-            print(f"⚠️ Line {i} format is wrong: {line}")
+            print(f" Line {i} format is wrong: {line}")
