@@ -1,7 +1,7 @@
 import random
 
 print(" Welcome to Snake Water Gun Game! ")
-print("Rules: Snake  drinks Water  | Gun  kills Snake  | Water 💦 drowns Gun 🔫")
+print("Rules: Snake  drinks Water  | Gun  kills Snake  | Water  drowns Gun ")
 
 choices = ["snake", "water", "gun"]
 
